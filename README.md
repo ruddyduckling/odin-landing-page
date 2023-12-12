@@ -1,5 +1,7 @@
 # odin-landing-page
 
+all images provided by https://placedog.net
+
 Assignment for The Odin Project
 
 Objective: Create a landing page based on a provided design outline. Completed after a basic introduction to some html and CSS. To solidify recent learning, use flexbox to replicate layout.  The intention of the assignment is to practice what has been learned so far, so, don't worry about mobile functionality; the primary focus is being able to move elements in relation to each other and replicate a given design.
